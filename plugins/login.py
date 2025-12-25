@@ -1,4 +1,4 @@
-# Copyright (c) 2025 devgagan : https://github.com/devgaganin.  
+# Copyright (c) 2025 magic : https://github.com/ig-magic.  
 # Licensed under the GNU General Public License v3.0.  
 # See LICENSE file in the repository root for full license text.
 
@@ -283,3 +283,4 @@ Still removing from database..."""
                 os.remove(f"{user_id}_client.session")
         except Exception:
             pass
+
